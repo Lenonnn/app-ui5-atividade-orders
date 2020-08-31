@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "opensap.Orders.Orders",
+        "description": "App Delivery Orders",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#Orders-Display",
+        "navigationComponentName": "opensap.Orders",
+        "intentSemanticObject": "Orders",
+        "intentAction": "Display",
+        "html5ApplicationName": "orders",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "110b5ee8-720c-4250-ba91-aebdebddd36a"
+        ],
+        "contentPackages": [
+            "644f160b-ce00-4f0c-892a-ee830f5a0ce9"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Delivery Orders",
+        "subtitle": "openSAP",
+        "searchKeywords": "Delivery Orders,openSAP",
+        "displayIconUrl": "sap-icon://cargo-train",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
